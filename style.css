@@ -1053,6 +1053,10 @@ span.swiper-pagination-bullet-active {
 		width: 720px;
 	  }
 
+	  .navigation {
+		display: flex;
+	  }
+
 	.main__description_m {
 		margin-top: 31px;
 
